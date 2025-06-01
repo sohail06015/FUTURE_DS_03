@@ -28,11 +28,11 @@ The dataset used includes real-world accident records with attributes such as:
 
 ## Task
 
-> Analyze road accident data to:
-> - Identify accident hotspots
-> - Track casualty severity trends
-> - Understand contributing factors (vehicle, road type, light)
-> - Recommend actionable safety insights
+ - Analyze road accident data to:
+ - Identify accident hotspots
+ - Track casualty severity trends
+ - Understand contributing factors (vehicle, road type, light)
+ - Recommend actionable safety insights
 
 ---
 
